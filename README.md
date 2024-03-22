@@ -7,6 +7,6 @@ Given my prior familiarity with the data and having conducted previous analyses,
 
 ![image](https://github.com/joanneabioye/Storytelling/assets/153685683/3d6fd9c6-628a-4bc2-95ad-e9fe8490667a)
 
-Once the narrative arc was complete, I began compiling a concise presentation (viewed [here]()). To enhance the storytelling, I created visual aids to provide a deeper understanding. I aimed to keep the presentation brief and focused, utilizing strong visuals to facilitate comprehension.
+Once the narrative arc was complete, I began compiling a concise presentation (viewed [here](https://github.com/joanneabioye/CardioGoodFitness-Presentation/blob/main/README.md)). To enhance the storytelling, I created visual aids to provide a deeper understanding. I aimed to keep the presentation brief and focused, utilizing strong visuals to facilitate comprehension.
 
 Overall, I found this project to be enjoyable. It was rewarding to delve into an intriguing topic and document my findings. The project also left room for further exploration, with numerous potential avenues for analysing factors related to increasing sales.
