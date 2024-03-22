@@ -12,7 +12,7 @@ Once the narrative arc was complete, I began compiling a concise presentation (p
 Overall, I found this project to be enjoyable. It was rewarding to delve into an intriguing topic and document my findings. The project also left room for further exploration, with numerous potential avenues for analysing factors related to increasing sales.
 
 
-### Portfolio Index
+## Portfolio Index
 
 1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
 
