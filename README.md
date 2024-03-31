@@ -5,7 +5,7 @@ For this project, I revisited a dataset I had previously analysed for another ta
 
 Given my prior familiarity with the data and having conducted previous analyses, I had a clear idea of the direction I wanted to take in crafting the narrative arc. Assembling the information was an enjoyable process.
 
-![image](https://github.com/joanneabioye/Storytelling/assets/153685683/3d6fd9c6-628a-4bc2-95ad-e9fe8490667a)
+![image](https://github.com/joanneabioye/Storytelling/assets/153685683/809cd341-2b37-47d0-b85b-04421a113bff)
 
 Once the narrative arc was complete, I began compiling a concise presentation (presentation can be viewed [here](https://github.com/joanneabioye/CardioGoodFitness-Presentation/blob/main/README.md)). To enhance the storytelling, I created visual aids to provide a deeper understanding. I aimed to keep the presentation brief and focused, utilizing strong visuals to facilitate comprehension.
 
